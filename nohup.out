@@ -1,0 +1,188 @@
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2019-12-16 01:57:55,731 [  11777]   WARN - llij.ide.plugins.PluginManager - cfn-lint not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,732 [  11778]   WARN - llij.ide.plugins.PluginManager - Python Annotations not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,732 [  11778]   WARN - llij.ide.plugins.PluginManager - TFS not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,732 [  11778]   WARN - llij.ide.plugins.PluginManager - GitToolBox not loaded: since build 193.0 > PC-192.7142.56 
+2019-12-16 01:57:55,732 [  11778]   WARN - llij.ide.plugins.PluginManager - CVS not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,732 [  11778]   WARN - llij.ide.plugins.PluginManager - Gitee not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,732 [  11778]   WARN - llij.ide.plugins.PluginManager - Subversion not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,732 [  11778]   WARN - llij.ide.plugins.PluginManager - Git Branch Manager not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,732 [  11778]   WARN - llij.ide.plugins.PluginManager - Git User not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,732 [  11778]   WARN - llij.ide.plugins.PluginManager - Gitmoji not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,732 [  11778]   WARN - llij.ide.plugins.PluginManager - Mercurial not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,732 [  11778]   WARN - llij.ide.plugins.PluginManager - ChangeReminder not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,733 [  11779]   WARN - llij.ide.plugins.PluginManager - Git not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,733 [  11779]   WARN - llij.ide.plugins.PluginManager - Tensor Dev Branch Creator not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,733 [  11779]   WARN - llij.ide.plugins.PluginManager - .ignore not loaded: since build 193.0 > PC-192.7142.56 
+2019-12-16 01:57:55,733 [  11779]   WARN - llij.ide.plugins.PluginManager - GitHub not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,733 [  11779]   WARN - llij.ide.plugins.PluginManager - Material Theme UI not loaded: since build 193.4099 > PC-192.7142.56 
+2019-12-16 01:57:55,733 [  11779]   WARN - llij.ide.plugins.PluginManager - Atom Material Icons not loaded: since build 193.2956 > PC-192.7142.56 
+2019-12-16 01:57:55,733 [  11779]   WARN - llij.ide.plugins.PluginManager - The Doki-Doki Theme not loaded: since build 193.4099 > PC-192.7142.56 
+2019-12-16 01:57:55,733 [  11779]   WARN - llij.ide.plugins.PluginManager - Image Icon Viewer not loaded: since build 193.2956 > PC-192.7142.56 
+2019-12-16 01:57:55,733 [  11779]   WARN - llij.ide.plugins.PluginManager - Automatic Power Saver not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,733 [  11779]   WARN - llij.ide.plugins.PluginManager - SSV Normandy Progress Bar not loaded: since build 193.4099 > PC-192.7142.56 
+2019-12-16 01:57:55,733 [  11779]   WARN - llij.ide.plugins.PluginManager - Material Theme UI Lite not loaded: since build 193.2956 > PC-192.7142.56 
+2019-12-16 01:57:55,733 [  11779]   WARN - llij.ide.plugins.PluginManager - Clean Sheet Theme not loaded: since build 193.0 > PC-192.7142.56 
+2019-12-16 01:57:55,733 [  11779]   WARN - llij.ide.plugins.PluginManager - Roboticket Light Theme not loaded: since build 193.0 > PC-192.7142.56 
+2019-12-16 01:57:55,733 [  11779]   WARN - llij.ide.plugins.PluginManager - Dracula Theme not loaded: since build 193.0 > PC-192.7142.56 
+2019-12-16 01:57:55,734 [  11780]   WARN - llij.ide.plugins.PluginManager - Save Actions not loaded: since build 193.0 > PC-192.7142.56 
+2019-12-16 01:57:55,734 [  11780]   WARN - llij.ide.plugins.PluginManager - EduTools not loaded: since build 193.5096 > PC-192.7142.56 
+2019-12-16 01:57:55,734 [  11780]   WARN - llij.ide.plugins.PluginManager - Task Management not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,734 [  11780]   WARN - llij.ide.plugins.PluginManager - MAGist not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,734 [  11780]   WARN - llij.ide.plugins.PluginManager - Nara Studio not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,734 [  11780]   WARN - llij.ide.plugins.PluginManager - GrapheneHelper not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,734 [  11780]   WARN - llij.ide.plugins.PluginManager - Getter Setter Generator not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,734 [  11780]   WARN - llij.ide.plugins.PluginManager - Graph Buddy not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,734 [  11780]   WARN - llij.ide.plugins.PluginManager - Python 2 Countdown not loaded: since build 193.0 > PC-192.7142.56 
+2019-12-16 01:57:55,734 [  11780]   WARN - llij.ide.plugins.PluginManager - SonarQube Community Plugin not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,735 [  11781]   WARN - llij.ide.plugins.PluginManager - Upsource Integration not loaded: since build 193.2956.37 > PC-192.7142.56 
+2019-12-16 01:57:55,735 [  11781]   WARN - llij.ide.plugins.PluginManager - Docker not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,735 [  11781]   WARN - llij.ide.plugins.PluginManager - Gherkin not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,735 [  11781]   WARN - llij.ide.plugins.PluginManager - Jira Integration not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,735 [  11781]   WARN - llij.ide.plugins.PluginManager - jsDelivr package search not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,735 [  11781]   WARN - llij.ide.plugins.PluginManager - logstash config support not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,735 [  11781]   WARN - llij.ide.plugins.PluginManager - Arena IDE not loaded: since build 193.4778 > PC-192.7142.56 
+2019-12-16 01:57:55,735 [  11781]   WARN - llij.ide.plugins.PluginManager - Terminal not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,735 [  11781]   WARN - llij.ide.plugins.PluginManager - Space not loaded: since build 193.5233.12 > PC-192.7142.56 
+2019-12-16 01:57:55,735 [  11781]   WARN - llij.ide.plugins.PluginManager - TextMate bundles not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,735 [  11781]   WARN - llij.ide.plugins.PluginManager - DiscordBeam not loaded: since build 193.4099 > PC-192.7142.56 
+2019-12-16 01:57:55,735 [  11781]   WARN - llij.ide.plugins.PluginManager - Minecraft NBT Support not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,735 [  11781]   WARN - llij.ide.plugins.PluginManager - Color Highlighter not loaded: since build 192.SNAPSHOT > PC-192.7142.56 
+2019-12-16 01:57:55,735 [  11781]   WARN - llij.ide.plugins.PluginManager - PsiViewer not loaded: since build 193.1 > PC-192.7142.56 
+2019-12-16 01:57:55,735 [  11781]   WARN - llij.ide.plugins.PluginManager - Grammar-Kit not loaded: since build 193.3519 > PC-192.7142.56 
+2019-12-16 01:57:55,736 [  11782]   WARN - llij.ide.plugins.PluginManager - Indices viewer not loaded: since build 193.0 > PC-192.7142.56 
+2019-12-16 01:57:55,736 [  11782]   WARN - llij.ide.plugins.PluginManager - IDETalk not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,736 [  11782]   WARN - llij.ide.plugins.PluginManager - Settings Repository not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,736 [  11782]   WARN - llij.ide.plugins.PluginManager - XSLT Debugger not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,736 [  11782]   WARN - llij.ide.plugins.PluginManager - XPathView + XSLT not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,736 [  11782]   WARN - llij.ide.plugins.PluginManager - PhoneGap/Cordova not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,736 [  11782]   WARN - llij.ide.plugins.PluginManager - MicroPython not loaded: since build 193.3793.14 > PC-192.7142.56 
+2019-12-16 01:57:55,736 [  11782]   WARN - llij.ide.plugins.PluginManager - SO Development not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,736 [  11782]   WARN - llij.ide.plugins.PluginManager - yFiles not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,736 [  11782]   WARN - llij.ide.plugins.PluginManager - PyCharm Odoo not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,736 [  11782]   WARN - llij.ide.plugins.PluginManager - Graph Database support not loaded: since build 193.0 > PC-192.7142.56 
+2019-12-16 01:57:55,736 [  11782]   WARN - llij.ide.plugins.PluginManager - k-infinity not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,736 [  11782]   WARN - llij.ide.plugins.PluginManager - Dart not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,736 [  11782]   WARN - llij.ide.plugins.PluginManager - R Language for IntelliJ not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,736 [  11782]   WARN - llij.ide.plugins.PluginManager - Frozen Idea not loaded: since build 193.1 > PC-192.7142.56 
+2019-12-16 01:57:55,736 [  11782]   WARN - llij.ide.plugins.PluginManager - Apache config (.htaccess) not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,737 [  11783]   WARN - llij.ide.plugins.PluginManager - Handlebars/Mustache not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,737 [  11783]   WARN - llij.ide.plugins.PluginManager - Ini not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,737 [  11783]   WARN - llij.ide.plugins.PluginManager - Erlang not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,737 [  11783]   WARN - llij.ide.plugins.PluginManager - Puppet not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,737 [  11783]   WARN - llij.ide.plugins.PluginManager - Wolfram Language not loaded: since build 193.0 > PC-192.7142.56 
+2019-12-16 01:57:55,737 [  11783]   WARN - llij.ide.plugins.PluginManager - Markdown not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,737 [  11783]   WARN - llij.ide.plugins.PluginManager - Perl not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,737 [  11783]   WARN - llij.ide.plugins.PluginManager - Rust not loaded: since build 193.4386 > PC-192.7142.56 
+2019-12-16 01:57:55,737 [  11783]   WARN - llij.ide.plugins.PluginManager - Toml not loaded: since build 193.0 > PC-192.7142.56 
+2019-12-16 01:57:55,737 [  11783]   WARN - llij.ide.plugins.PluginManager - xquery-intellij-plugin not loaded: since build 193.0 > PC-192.7142.56 
+2019-12-16 01:57:55,737 [  11783]   WARN - llij.ide.plugins.PluginManager - Clojure-Kit not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,737 [  11783]   WARN - llij.ide.plugins.PluginManager - Logtalk not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,737 [  11783]   WARN - llij.ide.plugins.PluginManager - ReasonML not loaded: since build 193.0 > PC-192.7142.56 
+2019-12-16 01:57:55,737 [  11783]   WARN - llij.ide.plugins.PluginManager - Fortran not loaded: since build 193.5233.10 > PC-192.7142.56 
+2019-12-16 01:57:55,737 [  11783]   WARN - llij.ide.plugins.PluginManager - Ideolog not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,737 [  11783]   WARN - llij.ide.plugins.PluginManager - HOCON not loaded: since build 193.0 > PC-192.7142.56 
+2019-12-16 01:57:55,737 [  11783]   WARN - llij.ide.plugins.PluginManager - Go Template not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,737 [  11783]   WARN - llij.ide.plugins.PluginManager - Requirements not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,737 [  11783]   WARN - llij.ide.plugins.PluginManager - Template Toolkit Support not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,738 [  11784]   WARN - llij.ide.plugins.PluginManager - Mojolicious Support not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,738 [  11784]   WARN - llij.ide.plugins.PluginManager - Mason Framework not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,738 [  11784]   WARN - llij.ide.plugins.PluginManager - Mason2 Support not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,738 [  11784]   WARN - llij.ide.plugins.PluginManager - HTML::Mason Support not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,738 [  11784]   WARN - llij.ide.plugins.PluginManager - Embedded Perl Support not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,738 [  11784]   WARN - llij.ide.plugins.PluginManager - Properties not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,738 [  11784]   WARN - llij.ide.plugins.PluginManager - SnakeCharm not loaded: since build 193.1.1 > PC-192.7142.56 
+2019-12-16 01:57:55,738 [  11784]   WARN - llij.ide.plugins.PluginManager - Diff / Patch File Support not loaded: since build 193.2956.37 > PC-192.7142.56 
+2019-12-16 01:57:55,738 [  11784]   WARN - llij.ide.plugins.PluginManager - Shell Script not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,738 [  11784]   WARN - llij.ide.plugins.PluginManager - YAML not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,738 [  11784]   WARN - llij.ide.plugins.PluginManager - Avro Viewer not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,738 [  11784]   WARN - llij.ide.plugins.PluginManager - Prettify Python not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,738 [  11784]   WARN - llij.ide.plugins.PluginManager - EditorConfig not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,738 [  11784]   WARN - llij.ide.plugins.PluginManager - Frame Switcher not loaded: since build 193.0 > PC-192.7142.56 
+2019-12-16 01:57:55,738 [  11784]   WARN - llij.ide.plugins.PluginManager - Phing not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,738 [  11784]   WARN - llij.ide.plugins.PluginManager - File Watchers not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,738 [  11784]   WARN - llij.ide.plugins.PluginManager - Pants Support not loaded: since build 193.0 > PC-192.7142.56 
+2019-12-16 01:57:55,738 [  11784]   WARN - llij.ide.plugins.PluginManager - Bazel not loaded: since build 193.4386 > PC-192.7142.56 
+2019-12-16 01:57:55,739 [  11785]   WARN - llij.ide.plugins.PluginManager - Gradle not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,739 [  11785]   WARN - llij.ide.plugins.PluginManager - Custom Postfix Templates not loaded: since build 193.4778 > PC-192.7142.56 
+2019-12-16 01:57:55,739 [  11785]   WARN - llij.ide.plugins.PluginManager - ideaMantis not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,739 [  11785]   WARN - llij.ide.plugins.PluginManager - SnippMe not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,739 [  11785]   WARN - llij.ide.plugins.PluginManager - Hunspell not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,739 [  11785]   WARN - llij.ide.plugins.PluginManager - MoveTab not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,739 [  11785]   WARN - llij.ide.plugins.PluginManager - JetForcer | The Smartest Force.com IDE not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,739 [  11785]   WARN - llij.ide.plugins.PluginManager - AWS Toolkit not loaded: since build 193.0 > PC-192.7142.56 
+2019-12-16 01:57:55,739 [  11785]   WARN - llij.ide.plugins.PluginManager - Limited WIP not loaded: since build 193.4386.10 > PC-192.7142.56 
+2019-12-16 01:57:55,739 [  11785]   WARN - llij.ide.plugins.PluginManager - Performance Testing not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,739 [  11785]   WARN - llij.ide.plugins.PluginManager - PyCharm Help not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,739 [  11785]   WARN - llij.ide.plugins.PluginManager - Environment Variable Settings Summary not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,740 [  11786]   WARN - llij.ide.plugins.PluginManager - Copyright not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,740 [  11786]   WARN - llij.ide.plugins.PluginManager - Packages for Apex not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,740 [  11786]   WARN - llij.ide.plugins.PluginManager - Fold Call Blocks not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,740 [  11786]   WARN - llij.ide.plugins.PluginManager - License Generator not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,740 [  11786]   WARN - llij.ide.plugins.PluginManager - IntelliLang not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,740 [  11786]   WARN - llij.ide.plugins.PluginManager - JetBrains Marketplace Licensing Support not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,740 [  11786]   WARN - llij.ide.plugins.PluginManager - Rookout-Python not loaded: since build 193.5233 > PC-192.7142.56 
+2019-12-16 01:57:55,740 [  11786]   WARN - llij.ide.plugins.PluginManager - GapStyle Color Scheme not loaded: since build 193.0 > PC-192.7142.56 
+2019-12-16 01:57:55,740 [  11786]   WARN - llij.ide.plugins.PluginManager - Grazie not loaded: since build 193.4386 > PC-192.7142.56 
+2019-12-16 01:57:55,740 [  11786]   WARN - llij.ide.plugins.PluginManager - ReSharper Keymap not loaded: since build 193.4778 > PC-192.7142.56 
+2019-12-16 01:57:55,740 [  11786]   WARN - llij.ide.plugins.PluginManager - Xcode Keymap not loaded: since build 193.4778 > PC-192.7142.56 
+2019-12-16 01:57:55,740 [  11786]   WARN - llij.ide.plugins.PluginManager - Shorty Mnemonic not loaded: since build 193.0 > PC-192.7142.56 
+2019-12-16 04:21:27,886 [8623932]  ERROR - llij.ide.plugins.PluginManager - null 
+java.lang.NullPointerException
+	at com.jediterm.terminal.ui.TerminalPanel$2.mouseDragged(TerminalPanel.java:193)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseDragged(AWTEventMulticaster.java:328)
+	at java.desktop/java.awt.Component.processMouseMotionEvent(Component.java:6699)
+	at java.desktop/javax.swing.JComponent.processMouseMotionEvent(JComponent.java:3360)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6420)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5026)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4858)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4564)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2773)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4858)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:878)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:823)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:466)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:704)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:465)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2019-12-16 04:21:27,888 [8623934]  ERROR - llij.ide.plugins.PluginManager - PyCharm 2019.2.5  Build #PC-192.7142.56 
+2019-12-16 04:21:27,888 [8623934]  ERROR - llij.ide.plugins.PluginManager - JDK: 11.0.4; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o 
+2019-12-16 04:21:27,888 [8623934]  ERROR - llij.ide.plugins.PluginManager - OS: Linux 
+2019-12-16 04:21:27,909 [8623955]  ERROR - llij.ide.plugins.PluginManager - Last Action: EditorNextWord 
+2019-12-16 04:25:18,092 [8854138]   WARN - n.process.BaseOSProcessHandler - Process hasn't generated any output for a long time.
+If it's a long-running mostly idle daemon process, consider overriding OSProcessHandler#readerOptions with 'BaseOutputReader.Options.forMostlySilentProcess()' to reduce CPU usage.
+Command line: nautilus /home/jcadic/Downloads/Awesome-CV/examples/resume/summary.tex 
+java.lang.Throwable: Process creation:
+	at com.intellij.execution.process.BaseOSProcessHandler.<init>(BaseOSProcessHandler.java:33)
+	at com.intellij.execution.process.OSProcessHandler.<init>(OSProcessHandler.java:151)
+	at com.intellij.execution.process.OSProcessHandler.<init>(OSProcessHandler.java:38)
+	at com.intellij.execution.process.CapturingProcessHandler.<init>(CapturingProcessHandler.java:21)
+	at com.intellij.ide.actions.ShowFilePathAction.lambda$spawn$9(ShowFilePathAction.java:329)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:294)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-12-16 07:16:43,116 [19139162]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 143 
