@@ -1,2 +1,2 @@
-![alt text](https://raw.githubusercontent.com/JeanMaximilienCadic/CIFAR10-Iyo/master/img/cadic_resume.jpg)
+![alt text](https://raw.githubusercontent.com/JeanMaximilienCadic/Awesome-CV-Cadic/master/imgs/resume.png)
 
